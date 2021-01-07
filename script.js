@@ -1,4 +1,4 @@
-const endPromoDate = '2 Jan 2021'
+const endPromoDate = '29 Jan 2021'
 const daysLeft = document.getElementById('days')
 const hoursLeft = document.getElementById('hours')
 const minsLeft = document.getElementById('mins')
